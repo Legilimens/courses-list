@@ -1,0 +1,14 @@
+.input {
+  padding: 4px;
+
+  background-repeat: 4px;
+}
+
+.btn {
+  margin: 0 0 0 4px;
+  padding: 4px;
+
+  border: none;
+  border-radius: 4px;
+  background: #afa3ff;
+}

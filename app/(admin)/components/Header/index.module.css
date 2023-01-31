@@ -1,0 +1,19 @@
+.header {
+  margin: 0 0 10px;
+  padding: 12px 6px;
+
+  background: #7699ea;
+}
+
+.text {
+  margin: 4px 0 8px;
+
+  color: #fff;
+
+  font-weight: 600;
+}
+
+.navigation {
+  display: flex;
+  gap: 10px;
+}
